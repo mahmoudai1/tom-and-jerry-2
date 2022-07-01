@@ -1,9 +1,9 @@
 # Tom and Jerry 2
 C# Graphics game where Tom emits a radar to detect Jerry.
 
-## Algorithms uses
-• DDA Line Drawing Algorithm<br/>
-• Polar Circle Drawing Algorithm
+## Drawing Algorithms Used
+• DDA Line<br/>
+• Polar Circle
 
 ## Demo
 
